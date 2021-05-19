@@ -1,0 +1,2 @@
+import tensorflow.compat.v1 as tf
+tf.disable_eager_execution() #改为静态图执行 2.x是动态图
